@@ -4,6 +4,16 @@ _Eltner, Anette, Dirk Hoffmeister, Andreas Kaiser, Pierre Karrasch, Lasse Klingb
 
 This repo is a try to consolidate the materials discussed in the book with **hands-on exercices and tutorials** to get going with the practical side of learning about UAVs, and also to mention **useful software** and **further readings**.
 
+## 0. Software
+
+- [Qgis](https://qgis.org): full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS), that supports viewing, editing, printing, and analysis of geospatial data.
+
+- [CloudCompare](https://www.danielgm.net/cc/): 3D point cloud and mesh processing software Open Source Project
+
+- [OpenDroneMap](https://opendronemap.org/): OpenDroneMap is an open source photogrammetry toolkit to process aerial imagery into maps and 3D models.
+
+- [Agisoft Metashape](https://www.agisoft.com/): a tool for a photogrammetry pipeline.
+
 ## 1. Basics
 
 1.1 Historical developments of UAV use in environmental sciences
@@ -25,8 +35,9 @@ This repo is a try to consolidate the materials discussed in the book with **han
 
   - More `hylite` tutorials can be found [here](https://hifexplo.github.io/hylite/hylite.html).
 
-    2.6 UAV laser scanning
-    2.7 Other UAV sensors
+### 2.6 UAV laser scanning
+
+2.7 Other UAV sensors
 
 ## 3. Data Analysis
 
@@ -44,10 +55,11 @@ This repo is a try to consolidate the materials discussed in the book with **han
 
   - `hylite` tutorials [here](https://hifexplo.github.io/hylite/hylite.html).
 
-    4.2 UAVs in geomorphology
-    4.3 UAVs in hydrology
-    4.4 UAVs in forestry
-    4.5 UAVs in cryosphere research
-    4.6 UAVs in volcanology
-    4.7 UAVs in agriculture
-    4.8 UAVs in conservation research
+### 4.2 UAVs in geomorphology
+
+4.3 UAVs in hydrology
+4.4 UAVs in forestry
+4.5 UAVs in cryosphere research
+4.6 UAVs in volcanology
+4.7 UAVs in agriculture
+4.8 UAVs in conservation research
