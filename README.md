@@ -7,7 +7,7 @@ This repo is a try to consolidate the materials discussed in the book with **han
 # Software
 
 <!-- prettier-ignore-start -->
-| Entry | Description | Tutorial |
+| Entry | Description | Tutorials |
 |---|---|---| 
 | [Qgis](https://qgis.org) | full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS), that supports viewing, editing, printing, and analysis of geospatial data. | * [Qgis docs](https://docs.qgis.org/testing/en/docs/) <br> * [Spatial Thoughts](https://www.qgistutorials.com/en/)|
 | [CloudCompare](https://www.danielgm.net/cc/) | 3D point cloud and mesh processing software Open Source Project | |
