@@ -2,19 +2,19 @@
 
 _Eltner, Anette, Dirk Hoffmeister, Andreas Kaiser, Pierre Karrasch, Lasse Klingbeil, Claudia Stöcker, and Alessio Rovere. UAVs for the Environmental Sciences, 2022._
 
-This repo is a try to consolidate the materials discussed in the book with **hands-on exercices and tutorials** to get going with the practical side of learning about UAVs, and also to mention **useful software** and **further readings**.
+This repo is a try to consolidate the materials discussed in the book with **hands-on exercises and tutorials** to get going with the practical side of learning about UAVs, and also to mention **useful software** and **further readings**.
 
 # Software
 
 <!-- prettier-ignore-start -->
-| Entry | Description |
-|---|---|
-| [Qgis](https://qgis.org) | full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS), that supports viewing, editing, printing, and analysis of geospatial data. |
-| [CloudCompare](https://www.danielgm.net/cc/) | 3D point cloud and mesh processing software Open Source Project |
-| [OpenDroneMap](https://opendronemap.org/) | open source photogrammetry toolkit to process aerial imagery into maps and 3D models |
-| [Agisoft Metashape](https://www.agisoft.com/) | a tool for a photogrammetry pipeline |
-| [Pix4d](https://www.pix4d.com/) | photogrammetry software suite for mobile and drone mapping |
-| | | 
+| Entry | Description | Tutorial |
+|---|---|---| 
+| [Qgis](https://qgis.org) | full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS), that supports viewing, editing, printing, and analysis of geospatial data. | * [Qgis docs](https://docs.qgis.org/testing/en/docs/) <br> * [Spatial Thoughts](https://www.qgistutorials.com/en/)|
+| [CloudCompare](https://www.danielgm.net/cc/) | 3D point cloud and mesh processing software Open Source Project | |
+| [OpenDroneMap](https://opendronemap.org/) | open source photogrammetry toolkit to process aerial imagery into maps and 3D models | |
+| [Agisoft Metashape](https://www.agisoft.com/) | a tool for a photogrammetry pipeline | |
+| [Pix4d](https://www.pix4d.com/) | photogrammetry software suite for mobile and drone mapping | |
+| | | |
 <!-- prettier-ignore-end -->
 
 <!-- prettier-ignore-start -->
